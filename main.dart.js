@@ -51508,8 +51508,9 @@ q=$.b2()
 p=i.dy
 p=p==null?A.f(h,A.hV("assets/profile-default.png",h,70,h,70),B.b,h,h,h,h,h,new A.q(0,50,0,0),h,h,h,h):A.f(h,A.fd(A.a4(51,0,0,0),new A.kx(u.q+A.d(p)),h,35),B.b,h,h,h,h,h,new A.q(0,50,0,0),h,h,h,h)
 o=A.L(h,10,h)
-n=i.dy
-n=A.f(h,A.m(A.d(n==null?"":n),h,h,h,h,A.p(h,h,B.k,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h),B.b,h,h,h,h,h,h,h,h,h,h)
+n=i.x
+if(n==null)n=""
+n=A.f(h,A.m(n,h,h,h,h,A.p(h,h,B.k,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h),B.b,h,h,h,h,h,h,h,h,h,h)
 m=A.L(h,15,h)
 l=i.ch
 if(l==null)l=""
