@@ -51511,12 +51511,12 @@ o=A.L(h,10,h)
 n=i.x
 if(n==null)n=""
 n=A.f(h,A.m(n,h,h,h,h,A.p(h,h,B.k,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h),B.b,h,h,h,h,h,h,h,h,h,h)
-m=A.L(h,15,h)
+m=A.L(h,7,h)
 l=i.ch
 if(l==null)l=""
 k=B.f.ap(127.5)
 j=t.p
-return A.ct(h,h,A.a6B(A.hm(h,A.df(B.a2,A.a([g,A.f(h,A.ft(A.B(A.a([A.f(h,A.B(A.a([A.f(h,A.B(A.a([p,o,n,m,A.f(h,A.m(l,h,h,h,h,A.p(h,h,A.a4(k,255,255,255),h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h),B.b,h,h,h,h,h,h,h,h,h,h)],j),B.j,B.i,B.h),B.b,q,h,h,h,r.a.b*0.3+10,h,h,h,h,s.a.a),A.f(h,A.B(A.a([i.abU(),i.abg(),i.abf(),i.abP(),A.f(h,A.B(A.a([A.f(h,A.av(A.a([A.f(h,A.fd(B.k,h,A.aR(B.fv,q,25),20),B.b,h,h,h,h,h,h,h,h,h,h),A.f(h,A.B(A.a([A.m("About",h,h,h,h,A.p(h,h,B.m,h,h,h,h,h,"Roboto-medium",h,h,14,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h),A.L(h,5,h),A.m("Versi aplikasi 1.0.0",h,h,h,h,A.p(h,h,A.a4(k,0,0,0),h,h,h,h,h,"Roboto-regular",h,h,11,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h)],j),B.q,B.i,B.h),B.b,h,h,h,h,h,new A.q(5,0,0,0),h,h,h,h)],j),B.j,B.i,B.h),B.b,h,h,h,h,h,h,h,h,h,h),A.bE(B.w,h)],j),B.j,B.i,B.h),B.b,h,h,h,h,h,new A.q(10,10,10,10),h,h,h,h)],j),B.j,B.i,B.h),B.b,h,h,h,h,h,new A.q(0,20,0,0),h,h,h,h)],j),B.j,B.ad,B.c5),B.b,h,h,h,h,h,h,h,h,h,1/0)],j),B.j,B.ad,B.h),h,B.I,h,new A.oE(h),B.z),B.b,h,h,h,h,1/0,h,h,h,h,h)],j),B.a3,h,h),B.I,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.asv(b),h,h,h,h,h,h),B.hh,t.lu),h,h,h)},
+return A.ct(h,h,A.a6B(A.hm(h,A.df(B.a2,A.a([g,A.f(h,A.ft(A.B(A.a([A.f(h,A.B(A.a([A.f(h,A.B(A.a([p,o,n,m,A.f(h,A.m(l,h,h,h,h,A.p(h,h,A.a4(k,255,255,255),h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h),B.b,h,h,h,h,h,h,h,h,h,h)],j),B.j,B.i,B.h),B.b,q,h,h,h,r.a.b*0.3+10,h,h,h,h,s.a.a),A.f(h,A.B(A.a([i.abU(),i.abg(),i.abf(),i.abP(),A.f(h,A.B(A.a([A.f(h,A.av(A.a([A.f(h,A.fd(B.k,h,A.aR(B.fv,q,25),20),B.b,h,h,h,h,h,h,h,h,h,h),A.f(h,A.B(A.a([A.m("About",h,h,h,h,A.p(h,h,B.m,h,h,h,h,h,"Roboto-medium",h,h,14,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h),A.L(h,5,h),A.m("Versi aplikasi 1.0.0",h,h,h,h,A.p(h,h,A.a4(k,0,0,0),h,h,h,h,h,"Roboto-regular",h,h,11,h,h,h,h,!0,h,0.5,h,h,h,h,h,h),h,h)],j),B.q,B.i,B.h),B.b,h,h,h,h,h,new A.q(5,0,0,0),h,h,h,h)],j),B.j,B.i,B.h),B.b,h,h,h,h,h,h,h,h,h,h),A.bE(B.w,h)],j),B.j,B.i,B.h),B.b,h,h,h,h,h,new A.q(10,10,10,10),h,h,h,h)],j),B.j,B.i,B.h),B.b,h,h,h,h,h,new A.q(0,10,0,0),h,h,h,h)],j),B.j,B.ad,B.c5),B.b,h,h,h,h,h,h,h,h,h,1/0)],j),B.j,B.ad,B.h),h,B.I,h,new A.oE(h),B.z),B.b,h,h,h,h,1/0,h,h,h,h,h)],j),B.a3,h,h),B.I,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.asv(b),h,h,h,h,h,h),B.hh,t.lu),h,h,h)},
 bc(){var s=0,r=A.A(t.z),q=this,p
 var $async$bc=A.v(function(a,b){if(a===1)return A.x(b,r)
 while(true)switch(s){case 0:p=A
